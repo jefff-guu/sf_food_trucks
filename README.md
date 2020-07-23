@@ -21,7 +21,7 @@ This Program is using its json output and put SoQL query strings after it as the
     `$ brew install python`
 
     2. On CentOS:
-    $ sudo yum install rh-python37
+    `$ sudo yum install rh-python37`
 
 - In this program, it will need a python library called requests to make an API call, you can install it using pip. Usually pip will be installed by default along with python installation. If you do not have pip installed, please follow this instruction: https://pip.pypa.io/en/stable/installing/
   `pip3 install requests`
@@ -33,7 +33,6 @@ This Program is using its json output and put SoQL query strings after it as the
 
 
 ## For future design:
-things to improve:
 - Provide search filter like food type/flavor as argument on command line
 - Provide a GUI or to fresh terminal console during swithcing pages
 
