@@ -43,5 +43,5 @@ class SoQL_query():
 
 
 if __name__ == '__main__':
-    query_string=SoQL_query(page_num=0).generate_query()
+    query_string=SoQL_query(page_num=1).generate_query()
     print(query_string)
