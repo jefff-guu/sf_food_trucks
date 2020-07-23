@@ -6,7 +6,6 @@ And the Mobile Food Schedule Data API usage can be found at:
 https://data.sfgov.org/Economy-and-Community/Mobile-Food-Schedule/jjew-r69b
 """
 
-import os
 import requests
 from query.SoQL import SoQL_query
 
